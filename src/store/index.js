@@ -62,8 +62,7 @@ export default new Vuex.Store({
         //     console.log(JSON.stringify(res));
         //     commit('addProjects',res.data);
 
-        // }
-
+        // 
     }
 
 
