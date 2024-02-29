@@ -21,5 +21,3 @@ npm run serve
 ```
 http://localhost:8080
 ```
-
-![Descrição da imagem](caminho/para/a/imagem.png)
