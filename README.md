@@ -1,6 +1,6 @@
 # Portifólio criado utilizando Vuejs, Vuex, and Vuetify.  
 
-![Descrição da imagem](/Semtítulo.png)
+![Descrição da imagem](/image.png)
 
 ### 📋 Clone o projeto na sua maquina abra na sua IDE, e no terminal rode os seguintes comandos :
 
