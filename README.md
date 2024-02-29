@@ -1,6 +1,6 @@
 # Portifólio criado utilizando Vuejs, Vuex, and Vuetify.  
 
-![neva vue screenshot](![Foto demonstrativa](<public/Semtítulo.png>))
+![Descrição da imagem](/Semtítulo.png)
 
 ### 📋 Clone o projeto na sua maquina abra na sua IDE, e no terminal rode os seguintes comandos :
 
