@@ -47,7 +47,7 @@ export default new Vuex.Store({
   },
     mutations:{
         // addProjects(state,projects){
-        //     state.projects = projects
+        //   state.projects = projects
         // }
     },
     getters:{

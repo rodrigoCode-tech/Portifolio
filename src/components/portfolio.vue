@@ -79,6 +79,11 @@
     padding: 5%;
     text-align: center;
     overflow: hidden;
+    /* width: 33em;
+    min-width: 100vw;   */
+    /* height: 30vh; */
+    /* max-height: 60vh; */
+    /* max-width:95vw; */
 }
 
 .project{
