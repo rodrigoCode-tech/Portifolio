@@ -1,11 +1,11 @@
 # Portifólio criado utilizando Vuejs, Vuex, and Vuetify.  
 
-![neva vue screenshot](https://res.cloudinary.com/dh3azc5sk/image/upload/v1632678783/templates/neva-vue/mockup-small_zgwpwl.png)
+![neva vue screenshot](![Foto demonstrativa](<public/Semtítulo.png>))
 
 ### 📋 Clone o projeto na sua maquina abra na sua IDE, e no terminal rode os seguintes comandos :
 
 ```
-npm install 
+npm install --force
 
 ```
 
