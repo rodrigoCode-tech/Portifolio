@@ -86,8 +86,6 @@
             submit(){
                 this.loading=true;
                 if(this.$refs.form.validate()){
-                //fetch the api
-                //let url='http://127.0.0.1:8000/submit_message';
                 let  params={
                     name:this.name,
                     email:this.email,
@@ -141,9 +139,7 @@
    
     .text-field{
         height:55px;
-        // padding:0;
          background-color: #d3d3d3;
-        // background-color:var(--gray);
         
     }
 
@@ -153,29 +149,5 @@
    border-width:3px ;
 } 
 }
-
-
-/* .contact{
-    margin:auto;
-    margin-bottom: 20%;
-    width:70%;
-    max-width:35rem;
-    background-color: #fff;
-}
-
-.contact>h2 {
-    text-align: center;
-    color: #a9a9a9;
-    font-size: calc(1rem + 4vw );
-}
-
-
-
-.text-field{
-    height:55px;
-    padding:0;
-    background-color: lightgrey;
-}
-*/
 
 </style>

@@ -94,7 +94,6 @@
 
 .up{
     height:44px;
-    /* background-color: var(--accent-color); */
     margin: auto;
     margin-top:-18px;
     
@@ -102,7 +101,6 @@
 .copyright{
     margin-top:5px;
     font-size:16px;
-    /* text-align: center; */
     color:var(--gray);
     font-weight:bold;
     text-align: left;
@@ -110,12 +108,6 @@
 .copyright>span{
     color :var(--highlight-color);
 }
-
-/* .copyright-icon{
-     color : white;
-     background-color: var(--highlight-color);
-} */
-
 .credit{
     padding-block: 10px;
     color: var(--gray);

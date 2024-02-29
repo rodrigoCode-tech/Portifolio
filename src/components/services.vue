@@ -40,7 +40,6 @@ export default {
        background-color : white;
 
        #title{
-        //    width:100vw;
            text-transform: uppercase;
            font-weight: bold;
            color:var(--accent-color);
@@ -56,13 +55,11 @@ export default {
               width: 100vw;
           }
            
-        //    background-color:red;
        }
 
        @media  screen and (min-width:$medium) {
            padding-block: 10%;
            padding-left:15%;
-        //    background-color:red;
        }
 
        .service-names{
