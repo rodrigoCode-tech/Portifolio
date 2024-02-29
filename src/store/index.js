@@ -47,7 +47,8 @@ export default new Vuex.Store({
   },
     mutations:{
         // addProjects(state,projects){
-        //     state.projects = projects
+        //   state.projects = projects
+        // }
     },
     getters:{
         projectChunks(state){
@@ -61,7 +62,8 @@ export default new Vuex.Store({
         //     console.log(JSON.stringify(res));
         //     commit('addProjects',res.data);
 
-        // 
+        // }
+
     }
 
 
