@@ -30,7 +30,7 @@ export default new Vuex.Store({
                 description:"Sistema Financeiro",
                 tech_stack:["Django"],
                 img:"https://res.cloudinary.com/dh3azc5sk/image/upload/v1610887992/Portfolio/images_61_bdofvp.jpg",
-                url:"https://quotsy..com"
+                url:"#"
             },
             {
                 name:"PDV Web",
@@ -38,6 +38,13 @@ export default new Vuex.Store({
                 tech_stack:["Django"],
                 img:require("@/assets/pdvweb.gif"),
                 url:"#"
+            },
+            {
+                name:"CPF Generator",
+                description:"Sistema web de geração de CPF e CNPJ", 
+                tech_stack:["Django"],
+                img:require("@/assets/cpfgenerator.png"),
+                url:"https://cpf-generator.netlify.app/"
             },
         
         ]

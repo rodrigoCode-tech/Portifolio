@@ -26,6 +26,11 @@
                                     <span class=' montserrat description '>
                                         {{ project.description }}
                                     </span>
+                                    <v-btn flat v-if='project.url'  
+                                    :href='project.url' target='_blank'
+                                    tile width='50%' class='mx-auto my-1 mt-2 '> 
+                                        Visite
+                                    </v-btn>
                                     <div class='tech-icons d-flex flex-row flex-wrap' width='100%'> 
                                         <v-img :src="icon_path(tech)"
                                             width='30px'  contain    class='mx-2' id='tech-icon' v-for='tech of project.tech_stack' :key='tech'>                                           
