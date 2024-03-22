@@ -33,20 +33,19 @@ export default new Vuex.Store({
                 url:"#"
             },
             {
-                name:"PDV Web",
-                description:"Sistema de vendas Web",
-                tech_stack:["Django"],
-                img:require("@/assets/pdvweb.gif"),
-                url:"#"
-            },
-            {
                 name:"CPF Generator",
                 description:"Sistema web de geração de CPF e CNPJ", 
                 tech_stack:["Django"],
                 img:require("@/assets/cpfgenerator.png"),
                 url:"https://cpf-generator.netlify.app/"
             },
-        
+            {
+                name:"PDV Web",
+                description:"Sistema de vendas Web",
+                tech_stack:["Django"],
+                img:require("@/assets/pdvweb.gif"),
+                url:"#"
+            },
         ]
 
       

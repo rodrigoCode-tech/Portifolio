@@ -3,7 +3,7 @@
         <h2 class=''>
             Portfolio
         </h2>
-        <v-container fluid class="projects pa-4">
+        <v-container fluid class="projects pa-4 d-flex flex-row flex-wrap justify-content-start">
             <v-row align="center"
                 justify="center" v-for='(chunk,index) in projectChunks'
                 :key ='index'>
